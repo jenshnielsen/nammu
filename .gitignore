@@ -12,3 +12,5 @@ python/nammu/controller/__init__$py.class
 *.jar
 *.pyc
 parsetab.py
+**/.cache
+**/effective-pom*.xml
